@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 
 CLAUDE.md
+output/
+app/my_face.png
